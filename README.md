@@ -1,3 +1,2 @@
 # auto-test-courses
-govna pojui
-horosho
+"Это репозиторий для хранения домашних заданий на степике!"
